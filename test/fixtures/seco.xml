@@ -1,0 +1,5 @@
+<swiss-sanctions-list><sanctions-program ssid="1"><program-name lang="eng">Ukraine/Russia</program-name><sanctions-set ssid="77" lang="eng">Annex 8</sanctions-set></sanctions-program>
+<target ssid="5001"><sanctions-set-id>77</sanctions-set-id><entity><identity ssid="1" main="true">
+<name ssid="2" name-type="primary-name"><name-part order="1" name-part-type="whole-name"><value>Silver Bridge Metals AG</value></name-part></name>
+<name ssid="3" name-type="alias"><name-part order="1" name-part-type="whole-name"><value>SBM AG</value></name-part></name>
+</identity></entity></target></swiss-sanctions-list>
