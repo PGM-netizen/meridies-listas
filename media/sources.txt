@@ -1,22 +1,13 @@
-# nombre_archivo url   (Unsplash License y Mixkit Free License: uso comercial sin atribución)
-silver-p9ObWeLsCvs.jpg https://unsplash.com/photos/p9ObWeLsCvs/download?force=true&w=1800
-silver-kQlJ1n_J8HE.jpg https://unsplash.com/photos/kQlJ1n_J8HE/download?force=true&w=1800
-silver-hQ4Q7pMeJUU.jpg https://unsplash.com/photos/hQ4Q7pMeJUU/download?force=true&w=1800
-silver-Y40F09ajloY.jpg https://unsplash.com/photos/Y40F09ajloY/download?force=true&w=1800
-cacao-jF3zJ1EFuNM.jpg https://unsplash.com/photos/jF3zJ1EFuNM/download?force=true&w=1800
-cacao-sFCOat9rphk.jpg https://unsplash.com/photos/sFCOat9rphk/download?force=true&w=1800
-cacao-0j4mQEe2Clw.jpg https://unsplash.com/photos/0j4mQEe2Clw/download?force=true&w=1800
-cacao-v8IutOBbi1Q.jpg https://unsplash.com/photos/v8IutOBbi1Q/download?force=true&w=1800
-copper-d61RBncf9k8.jpg https://unsplash.com/photos/d61RBncf9k8/download?force=true&w=1800
-copper-TEWaK837j7I.jpg https://unsplash.com/photos/TEWaK837j7I/download?force=true&w=1800
-copper-NrBE4oQq_NU.jpg https://unsplash.com/photos/NrBE4oQq_NU/download?force=true&w=1800
-v-42382.mp4 https://assets.mixkit.co/videos/42382/42382-1080.mp4
-v-42371.mp4 https://assets.mixkit.co/videos/42371/42371-1080.mp4
-v-20560.mp4 https://assets.mixkit.co/videos/20560/20560-1080.mp4
-v-4450.mp4 https://assets.mixkit.co/videos/4450/4450-1080.mp4
-v-31019.mp4 https://assets.mixkit.co/videos/31019/31019-1080.mp4
-v-34096.mp4 https://assets.mixkit.co/videos/34096/34096-1080.mp4
-v-30016.mp4 https://assets.mixkit.co/videos/30016/30016-1080.mp4
-v-30013.mp4 https://assets.mixkit.co/videos/30013/30013-1080.mp4
-v-46677.mp4 https://assets.mixkit.co/videos/46677/46677-1080.mp4
-v-33857.mp4 https://assets.mixkit.co/videos/33857/33857-1080.mp4
+# nombre_archivo url   (Unsplash License: uso comercial sin atribución)
+silver-p9Ob.jpg https://images.unsplash.com/photo-1707783764111-502472d31ace?w=1800&q=82&fm=jpg&fit=max
+silver-kQlJ.jpg https://images.unsplash.com/photo-1720637594911-fb18f28eb913?w=1800&q=82&fm=jpg&fit=max
+silver-hQ4Q.jpg https://images.unsplash.com/photo-1720637595047-107c9b50e818?w=1800&q=82&fm=jpg&fit=max
+silver-Y40F.jpg https://images.unsplash.com/photo-1641324115253-f66c552336cb?w=1800&q=82&fm=jpg&fit=max
+silver-91qh.jpg https://images.unsplash.com/photo-1641324114778-3234111fe705?w=1800&q=82&fm=jpg&fit=max
+silver-dPah.jpg https://images.unsplash.com/photo-1720637595085-cd0b84ed67ad?w=1800&q=82&fm=jpg&fit=max
+silver-4EgF.jpg https://images.unsplash.com/photo-1707783764100-6528510eeaeb?w=1800&q=82&fm=jpg&fit=max
+cacao-sFCO.jpg https://images.unsplash.com/photo-1743252878695-367d69dc87a8?w=1800&q=82&fm=jpg&fit=max
+cacao-jF3z.jpg https://images.unsplash.com/photo-1573710661345-610f790e1218?w=1800&q=82&fm=jpg&fit=max
+cacao-0j4m.jpg https://images.unsplash.com/photo-1689760661402-1d194799b1ac?w=1800&q=82&fm=jpg&fit=max
+copper-d61R.jpg https://images.unsplash.com/photo-1753771145085-d71e89c23092?w=1800&q=82&fm=jpg&fit=max
+copper-TEWa.jpg https://images.unsplash.com/photo-1753771145101-27bf20e71b6f?w=1800&q=82&fm=jpg&fit=max
