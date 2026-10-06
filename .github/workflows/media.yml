@@ -1,0 +1,30 @@
+name: descargar-media
+on:
+  push:
+    branches: [main]
+    paths: [media/sources.txt]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar
+        run: |
+          mkdir -p out
+          grep -v '^#' media/sources.txt | while read -r name url; do
+            [ -z "$name" ] && continue
+            if ! curl -fsSL --retry 2 -A "Mozilla/5.0 (meridies)" -o "out/$name" "$url"; then
+              alt="${url/-1080.mp4/-720.mp4}"
+              curl -fsSL --retry 2 -A "Mozilla/5.0 (meridies)" -o "out/$name" "$alt" || echo "FALLO $name" >> out/errores.txt
+            fi
+          done
+          ls -la out
+      - name: Publicar en rama media (temporal)
+        run: |
+          cd out && git init -q -b media && git add -A
+          git -c user.name="meridies-bot" -c user.email="actions@users.noreply.github.com" commit -qm "media temporal"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" media
