@@ -1,0 +1,33 @@
+{
+  "built_at": "2026-11-13T12:07:50.684Z",
+  "total": 39303,
+  "lists": {
+    "SECO": {
+      "ok": true,
+      "count": 12464,
+      "fetched_at": "2026-11-13T12:07:50.684Z"
+    },
+    "OFAC SDN": {
+      "ok": true,
+      "count": 19563,
+      "fetched_at": "2026-11-13T12:07:50.684Z"
+    },
+    "ONU": {
+      "ok": true,
+      "count": 1007,
+      "fetched_at": "2026-11-13T12:07:50.684Z"
+    },
+    "UE": {
+      "ok": true,
+      "count": 6269,
+      "fetched_at": "2026-11-13T12:07:50.684Z"
+    }
+  },
+  "sources": {
+    "SECO": "https://www.sesam.search.admin.ch/sesam-search-web/pages/downloadXmlGesamtliste.xhtml?lang=en&action=downloadXmlGesamtlisteAction",
+    "OFAC_SDN": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
+    "OFAC_ALT": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/ALT.CSV",
+    "UN": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+    "EU": "https://webgate.ec.europa.eu/fsd/fsf/public/files/xmlFullSanctionsList_1_1/content?token=dG9rZW4tMjAxNw"
+  }
+}
